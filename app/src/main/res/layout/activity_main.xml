@@ -48,6 +48,7 @@
         android:textSize="35sp"
         android:textStyle="bold|italic"
         android:layout_marginTop="50dp"
+        android:textColor="@color/black"
         app:layout_constraintTop_toTopOf="parent" />
 
 
